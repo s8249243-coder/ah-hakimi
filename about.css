@@ -23,7 +23,7 @@
 
 header {
     height: 100vh;
-    background-image: url('../assets/Images/forza-horizon-6-3840x2160-25224.jpg');
+    background-image: url('forza-horizon-6-3840x2160-25224.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -121,7 +121,7 @@ header>a:hover {
 
 .parallax {
   height: 100vh;
-  background: url("../assets/Images/black-myth-wukong.webp") no-repeat center;
+  background: url("black-myth-wukong.webp") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   display: flex;
